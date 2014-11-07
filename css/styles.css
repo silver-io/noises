@@ -1,0 +1,30 @@
+body {
+  background-color:#FFDD22
+}
+
+h1 {font-size: 30px; color: black;
+}
+
+div {
+  position:absolute;
+  top: 25%;
+  left: 25%;
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width:15px;
+}
+
+div {
+  position:absolute;
+  top: 25%;
+  left: 25%;
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  border-style: solid;
+  border-width:15px;
+}
